@@ -1,6 +1,6 @@
 # Description:
 
-This script reports the space used by snapshot on a zfs volume or dataset and her children, the output can be a summary of all used space of a detail per chidlren.
+This script report the space used by snapshots on a zfs volume or dataset and her children. The output can be a summary of all used space of the children or a detail per chidlren.
 
 # Usage:
 
